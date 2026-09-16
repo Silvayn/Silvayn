@@ -8,6 +8,6 @@
 
 ## 📫 Reach me on
 
-[![Email]](mailto:sylvain.naudy@gmail.com)
-[![Website](https://sylvainnaudy.com)
-[![LinkedIn]](https://fr.linkedin.com/in/sylvain-naudy-338937164)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylvain.naudy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/sylvain-naudy-338937164)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sylvainnaudy.com)
